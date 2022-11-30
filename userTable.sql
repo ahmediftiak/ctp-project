@@ -1,0 +1,4 @@
+SELECT * FROM "Users";
+INSERT INTO Users
+VALUES
+('Walt', 1, '1980-12-01', 95.50, 'A', TRUE);
